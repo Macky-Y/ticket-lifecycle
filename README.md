@@ -147,3 +147,23 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
 <img src="https://i.imgur.com/gJhztob.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+- To view our closed tickets, click <ins>Closed</ins>. You can see our previous ticket here.
+
+<p>
+<img src="https://i.imgur.com/fPAD9MP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+- If you want to view it just click it and we should be redirected to this page.
+
+<p>
+<img src="https://i.imgur.com/bHEx0k7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+9. Do the same steps for the previous Tickets.
+</p>
+
+<p>
+The end! 😁 Hope you enjoyed and learned a lot from this tutorial. Thank you so much!
+</p>
