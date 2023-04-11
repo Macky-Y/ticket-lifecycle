@@ -80,74 +80,70 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/QhiKJEW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-- Change <ins>SLA Plan</ins> to Sev-A and the <ins>Priority</ins> to High.
+- Change <ins>Priority</ins> to Emergency and click <ins>Update</ins>.
 
 <p>
-<img src="https://i.imgur.com/tRki0iH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MMn4301.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-
-
-
-
+- Let's pretend that I'm a System Administrator, I'll change <ins>Assigned to</ins> my name and click <ins>Assign</ins>.
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Je9mTw8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+- Change the <ins>SLA Plan</ins> to Sev-A since it is affecting the business and we need to fix it ASAP. Click <ins>Update</ins> once finished.
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Acx5qnk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+- Change the <ins>Department</ins> to System Administrators since System Admins are more experienced or Support are not allowed to fix this kind of issue. Click <ins>Transfer</ins> once finished.
+
+<p>
+<img src="https://i.imgur.com/zJg0SlE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+- Notice that everytime we change something in the ticket, it records it in the thread.
+
+<p>
+<img src="https://i.imgur.com/fCCYzGw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+- We can also post a reply to keep updates to the teams working on the same ticket.
+
+<p>
+<img src="https://i.imgur.com/AhVQYtn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+- Now you can see the reply we made.
+
+<p>
+<img src="https://i.imgur.com/qxiV0Jb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+- We can click <ins>Tickets</ins> to observe what the ticket says. As you probably noticed, it says assigned to my name.
+
+<p>
+<img src="https://i.imgur.com/ZQvlLMu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+7. Let's pretend that we already resolve the issue. Go and click the ticket that we're working on.
 </p>
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+8. Post a reply regarding the issue and mark it resolved. After that click <ins>Post Reply</ins>.
 </p>
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3VwKl7E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+8. You'll notice that our ticket is not in the <ins>Open Tab</ins> anymore.
 </p>
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gJhztob.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-
-
-
-
-
-
-
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
